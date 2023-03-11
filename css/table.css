@@ -1,0 +1,41 @@
+td{
+    border: 8px solid black;
+    border-radius: 40px;
+    font-size: 32px;
+    padding: 6px;
+    text-align: center;
+    color: white;
+}
+
+table{
+    border-spacing: 8px 4px;
+}
+
+.num{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.desc{
+    background: #5da121;
+}
+
+.confirm{
+    background: #e80718;
+}
+
+.conf{
+    background: #ca0315;
+}
+
+.inter{
+    background: #e98900;
+}
+
+.recup{
+    background: #1d5fd1;
+}
+
+.obitos{
+    background: #484848;
+}

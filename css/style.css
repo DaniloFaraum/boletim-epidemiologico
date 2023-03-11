@@ -1,0 +1,48 @@
+@import "table.css";
+
+*{
+    font-family:'Montserrat', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url("../images/fond-virus-blanc_44769-1701.png");
+    background-size: cover;
+    max-height: 100%;
+}
+
+header{
+    text-align: center;
+    line-height: 4px;
+    margin-top: 40px;
+}
+
+h1, p{
+    color: #213e72;
+}
+
+p{
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h3{
+    color: #66b026;
+    font-size: 22px;
+}
+
+img{
+    height: 140px;
+    width: auto;
+    margin-top: 20px;
+}
+
+footer{
+    text-align: center;
+}
